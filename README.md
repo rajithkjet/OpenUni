@@ -1,7 +1,7 @@
 # OpenUni
 Author
 K.R R Karunarathne
-Sri Lana
+Sri Lanka
 rajithkarunarathne@gmail.com
 
 A complete CRUD system to add, edit, delete and view using PHP and MySQL. Complete in a sense that this system has login and register feature as well. 
