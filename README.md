@@ -1,4 +1,8 @@
 # OpenUni
+Author
+K.R R Karunarathne
+Sri Lana
+rajithkarunarathne@gmail.com
 
 A complete CRUD system to add, edit, delete and view using PHP and MySQL. Complete in a sense that this system has login and register feature as well. 
 
@@ -10,12 +14,17 @@ Database username - root
 password-""
 
 License
-You have authority to full access use this opensource repo. 
+You have authority to full access to modify and use this opensource repo. 
 
-Author
-K.R R Karunarathne
-Sri Lana
-rajithkarunarathne@gmail.com
+
+
+
+
+
+
+
+
+
 
 
 
